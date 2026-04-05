@@ -1,5 +1,5 @@
 Prática com CSS Grid (Row & Column)
-🚀 Sobre o projeto
+Sobre o projeto
 
 Este projeto foi desenvolvido como parte dos meus estudos em CSS Grid, com foco no uso de:
 
@@ -8,7 +8,7 @@ grid-row
 
 O objetivo foi entender como posicionar elementos dentro de um layout utilizando linhas e colunas de forma estruturada.
 
-🧠 O que pratiquei
+ O que pratiquei
 
 Durante este exercício, trabalhei com:
 
